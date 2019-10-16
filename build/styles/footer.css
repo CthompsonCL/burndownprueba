@@ -1,0 +1,11 @@
+.footer {
+  font-size: 14px;
+  border-top: 1px solid #ccc;
+  padding: 11px 0 10px;
+  color: #ccc;
+}
+
+.footer a {
+  float: right;
+  color: inherit;
+}
